@@ -1,6 +1,11 @@
 # bytebankdatapersistence
 
-A new Flutter project. Data persistence
+File created for the Persistence with Flutter course by Alura
+
+- Internal storage with Flutter
+- Search and insertion behaviors in the database
+- FutureBuilder to load data asynchronously
+- Database code with DAO pattern
 
 ## Getting Started
 
